@@ -4,3 +4,4 @@
 #### Always Boring
 ##### BORING
 ###### Still Boring!
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
